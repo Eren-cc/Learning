@@ -4,13 +4,13 @@
 
 c++笔记：
 ------------
-
+* https://note.youdao.com/s/Ylm5Z8J4
 
 c++实战代码题
 ------------
-* 将listenfd设置为阻塞，clientfd设置为非阻塞，epoll只保留ET(边缘触发)
+* https://note.youdao.com/s/U1bPzDb2
 
 一些八股：
 ------------
-* 仅支持get与post两类http请求
+* https://note.youdao.com/s/YxiUHyqf
 
